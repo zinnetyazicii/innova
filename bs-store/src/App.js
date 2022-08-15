@@ -21,6 +21,7 @@ import UpdateCategory from "./adminpages/categories/UpdateCategory";
 import AddBook from "./adminpages/books/AddBook";
 import Login from "./pages/login/Login";
 import BookList from "./pages/book/BookList";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
